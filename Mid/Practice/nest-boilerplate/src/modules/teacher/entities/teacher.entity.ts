@@ -1,0 +1,23 @@
+import { Entity } from "typeorm";
+import { Column, PrimaryGeneratedColumn } from "typeorm";
+
+@Entity({ name: "teachers" })
+    export class Teacher {
+        @PrimaryGeneratedColumn("uuid")
+        id!: string;
+
+        @Column()
+        name!: string;
+
+        @Column()
+        email!: string;
+
+        @Column()
+        salary!: number;
+
+        @Column()
+        created_at?: Date;
+
+        @Column()
+        updated_at?: Date;
+    }
