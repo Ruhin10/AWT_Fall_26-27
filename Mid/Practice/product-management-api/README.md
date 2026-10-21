@@ -1,7 +1,7 @@
-## Owneer Informtion 
-- Name : Md Shafiur Rahman Ruhin
-- Id : 23-53292-3
-- Section: E
+## **Student Informtion **
+- **Name** : Md Shafiur Rahman Ruhin
+- **Id** : 23-53292-3
+- **Section** : E
 
 
 
