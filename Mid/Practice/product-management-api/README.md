@@ -1,4 +1,4 @@
-## **Student Informtion **
+# **Student Informtion**
 - **Name** : Md Shafiur Rahman Ruhin
 - **Id** : 23-53292-3
 - **Section** : E
